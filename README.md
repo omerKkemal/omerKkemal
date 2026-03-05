@@ -1,5 +1,3 @@
-<img src="https://picsum.photos/150/150?random=1" width="150" align="right" alt="Random profile image">
-
 # 💫 About Me:
 
 I am a developer focused on building practical software and automation tools using **Python**, **Laravel**, and modern **API-based architectures**. I specialize in designing backend systems, creating efficient APIs (Flask, FastAPI, Django, Laravel), and developing tools that solve real technical problems.
