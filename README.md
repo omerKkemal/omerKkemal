@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://picsum.photos/150/150?random=1" width="150" style="border-radius: 50%;" alt="Profile">
   <h1>✨ Omer Kemal ✨</h1>
   <p><strong>Software Engineer · Security Researcher · API Architect</strong></p>
   <p>
