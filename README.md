@@ -1,3 +1,5 @@
+<img src="2620.svg" width="150" align="right" alt="Profile SVG">
+
 # 💫 About Me:
 
 I am a developer focused on building practical software and automation tools using **Python**, **Laravel**, and modern **API-based architectures**. I specialize in designing backend systems, creating efficient APIs (Flask, FastAPI, Django, Laravel), and developing tools that solve real technical problems.
@@ -13,7 +15,10 @@ I also build **cross-platform applications for Android and desktop using Flet**,
 I am always learning new technologies, improving my development workflow, and working on projects that expand my knowledge in **software engineering, security research, and system development**. 🚀
 
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Omer%20Kemal) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omerkemal2019) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omer%20kemal) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerkemal2019@gmail.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
