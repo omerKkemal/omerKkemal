@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello my name is omer kemal:
 
 I am a developer focused on building practical software and automation tools using **Python**, **Laravel**, and modern **API-based architectures**. I specialize in designing backend systems, creating efficient APIs (Flask, FastAPI, Django, Laravel), and developing tools that solve real technical problems.
 
