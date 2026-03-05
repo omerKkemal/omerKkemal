@@ -1,4 +1,4 @@
-<img src="2620.svg" width="150" align="right" alt="Profile SVG">
+<img src="https://picsum.photos/150/150?random=1" width="150" align="right" alt="Random profile image">
 
 # 💫 About Me:
 
