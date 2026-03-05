@@ -29,9 +29,6 @@ I am always learning new technologies, improving my development workflow, and wo
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omerKkemal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=omerKkemal&icon=0&color=0)](https://visitcount.itsvg.in)
 
