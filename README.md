@@ -15,9 +15,9 @@
 
 I’m a developer passionate about building **practical software**, **automation tools**, and **security‑focused applications**. I specialize in backend development using **Python**, **Laravel**, and modern **API architectures** (Flask, FastAPI, Django, Laravel). My work often explores how systems work under the hood – from network protocols to operating system internals – and I love turning those insights into real‑world tools.
 
- **Security Research** – I develop offensive security and red‑team tools for educational and research purposes. These projects help me (and others) understand attack vectors, defense mechanisms, and the ever‑evolving landscape of cybersecurity.
+**Security Research** – I develop offensive security and red‑team tools for educational and research purposes. These projects help me (and others) understand attack vectors, defense mechanisms, and the ever‑evolving landscape of cybersecurity.
 
-📱 **Cross‑Platform Development** – Using **Flet**, I build desktop and Android applications that bring backend logic to life with intuitive graphical interfaces.
+**Cross‑Platform Development** – Using **Flet**, I build desktop and Android applications that bring backend logic to life with intuitive graphical interfaces.
 
 I’m constantly learning, experimenting with new technologies, and refining my workflow. Every project is an opportunity to deepen my knowledge in **software engineering, system development, and security research**.
 
