@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Omer Kemal ✨</h1>
+  <h1> Omer Kemal </h1>
   <p><strong>Software Engineer · Security Researcher · API Architect</strong></p>
   <p>
     <a href="https://facebook.com/Omer%20Kemal"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
@@ -11,19 +11,19 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a developer passionate about building **practical software**, **automation tools**, and **security‑focused applications**. I specialize in backend development using **Python**, **Laravel**, and modern **API architectures** (Flask, FastAPI, Django, Laravel). My work often explores how systems work under the hood – from network protocols to operating system internals – and I love turning those insights into real‑world tools.
 
-🔐 **Security Research** – I develop offensive security and red‑team tools for educational and research purposes. These projects help me (and others) understand attack vectors, defense mechanisms, and the ever‑evolving landscape of cybersecurity.
+ **Security Research** – I develop offensive security and red‑team tools for educational and research purposes. These projects help me (and others) understand attack vectors, defense mechanisms, and the ever‑evolving landscape of cybersecurity.
 
 📱 **Cross‑Platform Development** – Using **Flet**, I build desktop and Android applications that bring backend logic to life with intuitive graphical interfaces.
 
-🚀 I’m constantly learning, experimenting with new technologies, and refining my workflow. Every project is an opportunity to deepen my knowledge in **software engineering, system development, and security research**.
+I’m constantly learning, experimenting with new technologies, and refining my workflow. Every project is an opportunity to deepen my knowledge in **software engineering, system development, and security research**.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -36,7 +36,7 @@ I’m a developer passionate about building **practical software**, **automation
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I’m a developer passionate about building **practical software**, **automation
 
 ---
 
-## 📊 GitHub at a Glance
+## GitHub at a Glance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omerKkemal&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
@@ -74,7 +74,7 @@ I’m a developer passionate about building **practical software**, **automation
 
 ---
 
-## 🌐 Let’s Connect
+## Let’s Connect
 
 I’m always open to discussing technology, security, or potential collaborations. Reach out through any of the platforms below:
 
@@ -92,5 +92,5 @@ I’m always open to discussing technology, security, or potential collaboration
 ---
 
 <div align="center">
-  <sub>✨ Built with passion, curiosity, and a lot of coffee. ✨</sub>
+  <sub> Built with passion, curiosity, and a lot of coffee. </sub>
 </div>
